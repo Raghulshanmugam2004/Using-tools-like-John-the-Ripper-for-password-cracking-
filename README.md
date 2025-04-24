@@ -28,11 +28,12 @@ Use John the Ripper to crack the hashes
   
   •	Name the file: praveen.txt.
 
-![1](https://github.com/user-attachments/assets/469b226c-6b78-4e74-bdf5-82a4c5536e9f)
+    ![1](https://github.com/user-attachments/assets/469b226c-6b78-4e74-bdf5-82a4c5536e9f)
 
 
   •	Open it and type:
-![2](https://github.com/user-attachments/assets/e77c8c00-5daa-4770-b8ad-95f9fd54dc1f)
+
+   ![2](https://github.com/user-attachments/assets/e77c8c00-5daa-4770-b8ad-95f9fd54dc1f)
 
 
   •	Save and close the file.
@@ -41,14 +42,14 @@ Use John the Ripper to crack the hashes
 
   •	Right-click on praveen.txt → Create Archive.
   
-![3](https://github.com/user-attachments/assets/fd07227a-cc88-4724-9198-14b90b323bab)
+  ![3](https://github.com/user-attachments/assets/fd07227a-cc88-4724-9198-14b90b323bab)
 
 
   •	Select .zip format.
   
   •	Click Other Options, set a password (e.g., 1234), then click Create.
-
- ![4](https://github.com/user-attachments/assets/9c70e493-7141-4a44-812e-224c2d4f21ee)
+  
+  ![4](https://github.com/user-attachments/assets/9c70e493-7141-4a44-812e-224c2d4f21ee)
 
 
   •	A file named praveen.txt.zip will appear.
@@ -58,8 +59,8 @@ Use John the Ripper to crack the hashes
   •	Click on the Kali menu or press the Super (Windows) key.
   
   •	Search for “john” and click it — this opens the terminal with John the Ripper installed.
-
-![5](https://github.com/user-attachments/assets/db8d52b9-e679-4623-b2e1-dcbc734fe746)
+  
+  ![5](https://github.com/user-attachments/assets/db8d52b9-e679-4623-b2e1-dcbc734fe746)
 
 
   •	Or simply open a Terminal from the dock or desktop.
@@ -83,21 +84,25 @@ Use John the Ripper to crack the hashes
 ### Step 6: Generate Hash Using zip2john
 
   •	Execute:
+  
   ![8](https://github.com/user-attachments/assets/4879763f-d1e5-4fac-a290-05c7cdcc015d)
 
 
 ### Step 7: Verify the Hash File (Optional)
   •	Open hash.txt to ensure it contains the hash line.
+  
   ![9](https://github.com/user-attachments/assets/286fe411-959e-4fd5-9dc0-2cffe4c82971)
 
 
 ### Step 8: Start Cracking the Password
   •	Run:
+  
   ![10](https://github.com/user-attachments/assets/c63587bb-0d94-41a4-95be-128eeecb4837)
 
 
 ## OUTPUT:View the Cracked Password
   • After cracking is complete, reveal the password using:
+  
   ![11](https://github.com/user-attachments/assets/373e5f15-3dc5-4056-97c7-24ac37abd62d)
 
 
