@@ -52,7 +52,7 @@ Use John the Ripper to crack the hashes
   ![4](https://github.com/user-attachments/assets/9c70e493-7141-4a44-812e-224c2d4f21ee)
 
 
-  •	A file named praveen.txt.zip will appear.
+  •	A file named raghul.txt.zip will appear.
 
 ### Step 3: Open John the Ripper Terminal in Kali Linux
 
