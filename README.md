@@ -26,10 +26,9 @@ Use John the Ripper to crack the hashes
 
   •	Right-click on the Desktop and choose Create Document → Empty Document.
   
-  •	Name the file: praveen.txt.
+  •	Name the file: raghul.txt
 
-    ![1](https://github.com/user-attachments/assets/469b226c-6b78-4e74-bdf5-82a4c5536e9f)
-
+  ![1](https://github.com/user-attachments/assets/8d55c52b-98b1-4a5c-bfc6-ee78b2e5c567)
 
   •	Open it and type:
 
@@ -40,7 +39,7 @@ Use John the Ripper to crack the hashes
 
 ### Step 2: Create a Password-Protected ZIP File
 
-  •	Right-click on praveen.txt → Create Archive.
+  •	Right-click on raghul.txt → Create Archive.
   
   ![3](https://github.com/user-attachments/assets/fd07227a-cc88-4724-9198-14b90b323bab)
 
@@ -79,7 +78,7 @@ Use John the Ripper to crack the hashes
   ![7](https://github.com/user-attachments/assets/9a9c187a-01c3-4d1e-9f97-f8172e139989)
 
 
-  •	You should see praveen.txt.zip listed.
+  •	You should see raghul.txt.zip listed.
 
 ### Step 6: Generate Hash Using zip2john
 
